@@ -49,4 +49,11 @@ npm install babel-preset-minify --save-dev
 
 ```
 
+After all of these commands have been run you can now run the command:
+
+```bash
+npm test
+
+```
+
 
